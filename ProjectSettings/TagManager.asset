@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - StageInfoPanel
+  - StageImage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgrounds
+    uniqueID: 2660842303
+    locked: 0
+  - name: ItemEffects
+    uniqueID: 3918220393
+    locked: 0
+  - name: Balls
+    uniqueID: 632160091
+    locked: 0
+  - name: Effects
+    uniqueID: 465858557
+    locked: 0
+  - name: UI
+    uniqueID: 3271757055
+    locked: 0
+  m_RenderingLayers:
+  - Default

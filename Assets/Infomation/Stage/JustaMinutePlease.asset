@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29fcb56f0cf8fee4abb42b8abeef1f58, type: 3}
+  m_Name: JustaMinutePlease
+  m_EditorClassIdentifier: Assembly-CSharp::StageInfo
+  stageName: test-01
+  stageImage: {fileID: -6286294271970219409, guid: 1bc43000025e5764cac66124513d42fa, type: 3}
+  stageMissions:
+  - ballColor: 0
+    amount: 2000
+  - ballColor: 1
+    amount: 5000
+  - ballColor: 2
+    amount: 4000
+  - ballColor: 3
+    amount: 3000
+  difficulity: 1
+  missionDiscription: "\u5236\u9650\u6642\u9593\u5185\u306B\u96C6\u3081\u3088\u3046\uFF01"
+  bgmInfo:
+    audioClip: {fileID: 8300000, guid: 9065cca9c0529b14cbba603151482481, type: 3}
+    songName: Just a Minute, please
+    author: "\u4E2D\u585A \u6B66"
+    BPM: 148
+    bgmStartDelay: 0
+    bgmSourceDelay: 0.07900000363588333
+    bgmSwitchDelay: 0
+    gameStartBeat: 46
+    gameFinishBeat: 506
+    countDownBeat: 3
+    loopStartPoint: 20
+    loopPoint: 36
+    introSwitchableBeat: 120000001a000000
+    muteBeatList: 

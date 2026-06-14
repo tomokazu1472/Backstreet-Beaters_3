@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96a87616d4926134e81b563666fbeb61, type: 3}
+  m_Name: HipHop1
+  m_EditorClassIdentifier: Assembly-CSharp::LoopBGM
+  gameBGM:
+    audioClip: {fileID: 8300000, guid: 89a13ed2713fb14478136ad4ffd2dd74, type: 3}
+    songName: Hiphop_1
+    author: Springn
+    BPM: 120
+    bgmStartDelay: 0
+    bgmSourceDelay: 0
+    bgmSwitchDelay: 0
+    gameStartBeat: 0
+    gameFinishBeat: 0
+    countDownBeat: 0
+    loopStartPoint: 6
+    loopPoint: 142
+    introSwitchableBeat: 
+    muteBeatList: 0000000001000000020000000300000004000000050000008700000088000000890000008c000000

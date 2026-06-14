@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29fcb56f0cf8fee4abb42b8abeef1f58, type: 3}
+  m_Name: CloudsBelow
+  m_EditorClassIdentifier: Assembly-CSharp::StageInfo
+  stageName: 1-1
+  stageImage: {fileID: -6286294271970219409, guid: 1bc43000025e5764cac66124513d42fa, type: 3}
+  stageMissions:
+  - ballColor: 0
+    amount: 100
+  - ballColor: 2
+    amount: 50
+  - ballColor: 3
+    amount: 70
+  difficulity: 0
+  missionDiscription: "\u5236\u9650\u6642\u9593\u5185\u306B\u96C6\u3081\u3088\u3046\uFF01"
+  bgmInfo:
+    audioClip: {fileID: 8300000, guid: 1adcfa0718ee1fa4b95e38f1d7ed9604, type: 3}
+    songName: Clouds Below
+    author: "\u30DC\u30EB\u30AC\u30FC\u30C9"
+    BPM: 155
+    bgmStartDelay: 0
+    bgmSourceDelay: -0.041999999433755875
+    bgmSwitchDelay: 0
+    gameStartBeat: 64
+    gameFinishBeat: 506
+    countDownBeat: 3
+    loopStartPoint: 17
+    loopPoint: 49
+    introSwitchableBeat: 1100000015000000190000001d00000021000000250000002900000031000000
+    muteBeatList: 
